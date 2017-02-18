@@ -18,3 +18,7 @@ Provides you with the most current code to work from if you are away from a sour
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Emailing files back and forth perhaps. Use dropbox. Version control and merging would be a lot harder
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When working on a new feature or idea, so that master is still in a
+shipable state during production of new feature
