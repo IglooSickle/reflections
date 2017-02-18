@@ -12,3 +12,6 @@ permission to edit, via github. Clones are a copy of a repository and
 can reside locally and remotely, they do not link back to the original
 like forks do. Branches are essentially different versions within the
 same repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Provides you with the most current code to work from if you are away from a source of internet
