@@ -15,3 +15,6 @@ same repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Provides you with the most current code to work from if you are away from a source of internet
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Emailing files back and forth perhaps. Use dropbox. Version control and merging would be a lot harder
